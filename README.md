@@ -8,7 +8,7 @@ FotoBlog
 
 <br>
 
-  <img src=".github/">
+  <img src=".github/Fotoblog.jpg">
 
 <br>
 
