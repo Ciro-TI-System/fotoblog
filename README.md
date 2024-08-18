@@ -16,9 +16,10 @@ FotoBlog
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- **[HTML](#)**
-- **[CSS](#)**
+- **[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)**
+- **[CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**
 - **[Figma](https://www.figma.com/dev-mode/)**
+- **[Picsum API](https://picsum.photos)**
 
 <br>
 
